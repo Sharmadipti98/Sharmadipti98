@@ -99,7 +99,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=ayushshanks&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
 | ---      | ---      | 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sharmadipti98&theme=radical&hide_border=true)
 
 ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
